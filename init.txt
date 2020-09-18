@@ -1,2 +1,3 @@
 init file
 after updated
+updating from new clone
